@@ -46,11 +46,11 @@ Este repositório foi desenvolvido como parte do curso **“Lógica de programa�
 ```
 
 📦logica-programacao-javascript
+┣ 📁 img
+┣ 📜 app.js
+┣ 📜 index.html
 ┣ 📜 README.md
-┣ 📜 jogo-adivinhacao.html
-┣ 📜 jogo-adivinhacao.js
-┣ 📜 tabuada.html
-┗ 📜 tabuada.js
+┗ 📜 style.css
 
 ```
 
@@ -64,18 +64,10 @@ Este repositório foi desenvolvido como parte do curso **“Lógica de programa�
 
 ---
 
-## 📸 Captura de Tela
-
-> 💡 Adicione aqui imagens dos jogos rodando no navegador  
-> _(Exemplo: printscreen do alerta com mensagem de acerto, ou tabuada exibida)_
-
----
-
 ## 📑 Certificado
 
 📄 Assim que o curso for concluído, o certificado será disponibilizado aqui:  
-**🔗 [Clique aqui para visualizar o certificado](https://cursos.alura.com.br/user/SEU_USUARIO_ALURA/certificate/curso-id)**  
-_(Substituir pelo link real após a conclusão)_
+**🔗 [Clique aqui para visualizar o certificado]([https://cursos.alura.com.br/user/SEU_USUARIO_ALURA/certificate/curso-id](https://github.com/lobaosilvaaa/logica-js-projeto_inicial/blob/main/Curso%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o_%20mergulhe%20em%20programa%C3%A7%C3%A3o%20com%20JavaScript%20-%20Alura.pdf))**  
 
 ---
 
