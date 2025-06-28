@@ -61,7 +61,7 @@ Este repositório foi desenvolvido como parte do curso **“Lógica de programa�
 ## 📑 Certificado
 
 📄 Assim que o curso for concluído, o certificado será disponibilizado aqui:  
-**🔗 [Clique aqui para visualizar o certificado]([https://cursos.alura.com.br/user/SEU_USUARIO_ALURA/certificate/curso-id](https://github.com/lobaosilvaaa/logica-js-projeto_inicial/blob/main/Curso%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o_%20mergulhe%20em%20programa%C3%A7%C3%A3o%20com%20JavaScript%20-%20Alura.pdf])**  
+**🔗 [Clique aqui para visualizar o certificado](https://github.com/lobaosilvaaa/logica-js-projeto_inicial/blob/main/Curso%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o_%20mergulhe%20em%20programa%C3%A7%C3%A3o%20com%20JavaScript%20-%20Alura.pdf)**  
 
 ---
 
