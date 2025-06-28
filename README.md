@@ -35,12 +35,6 @@ Este repositório foi desenvolvido como parte do curso **“Lógica de programa�
 
 > Um jogo simples onde o usuário tenta adivinhar um número aleatório gerado pelo sistema. Inclui contagem de tentativas e dicas (maior ou menor).
 
-### 🧮 **Tabuada Interativa**
-
-> Calculadora de tabuada que utiliza `prompt` e `alert` para interagir com o usuário no navegador. Demonstra lógica com `for`.
-
----
-
 ## 📁 Estrutura do Projeto
 
 ```
