@@ -1,80 +1,89 @@
-# 🧠 Lógica de Programação com JavaScript
+# 💻 Lógica de Programação: Mergulhe em Programação com JavaScript
 
-Este repositório foi desenvolvido como parte do curso **“Lógica de programação: mergulhe em programação com JavaScript”** da plataforma [Alura](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript).
+Este repositório contém os códigos e práticas desenvolvidas durante o curso [**Lógica de Programação: mergulhe em programação com JavaScript**](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript) da Alura.
 
-🎓 O projeto tem como objetivo colocar em prática os fundamentos da lógica de programação utilizando **JavaScript**, desenvolvendo jogos e desafios interativos no navegador.
-
----
-
-## 🎯 Objetivos do Curso
-
-- Compreender o que é lógica de programação
-- Aprender como o computador “pensa”
-- Trabalhar com variáveis, operadores e estruturas de repetição
-- Desenvolver jogos interativos usando JavaScript no navegador
-- Resolver problemas com algoritmos simples e eficazes
+O curso apresenta os primeiros conceitos de **programação com JavaScript**, ideal para quem está dando os primeiros passos na lógica de programação, com aplicações simples executadas diretamente no navegador.
 
 ---
 
-## 🧠 O que eu aprendi
+## 📚 Conteúdo do Curso
 
-✅ Variáveis e tipos de dados em JavaScript  
-✅ Operadores matemáticos e lógicos  
-✅ Laços de repetição (`while`, `for`)  
-✅ Condicionais (`if`, `else`, `switch`)  
-✅ Geração de números aleatórios com `Math.random()`  
-✅ Funções básicas e reutilização de código  
-✅ Introdução à depuração no navegador  
-✅ Construção de **dois jogos simples** usando lógica pura
+### 🧱 Fundamentos da Programação
+- O que é lógica e linguagem de programação
+- Ambiente de desenvolvimento com VS Code + Live Server
+- Comandos básicos de saída (`alert`, `console.log`) e entrada (`prompt`)
+- Variáveis, operadores e tipos primitivos
+
+### 🧠 Condicionais
+- Uso de `if`, `else` e `else if`
+- Comparações lógicas e relacionais
+- Boas práticas e comentários
+
+### 🔁 Laços de Repetição
+- Estrutura `while`
+- Tentativas com contador
+- Prevenção de loop infinito
+
+### 🎲 Recursos Avançados
+- Uso de `Math.random()` para gerar valores aleatórios
+- `break` e controle de fluxo
+- Operador ternário para simplificar decisões
 
 ---
 
-## 🎮 Projetos Desenvolvidos
+## 🚀 Projeto Final
 
-### 🎯 **Jogo da Adivinhação**
+Ao final do curso, foi desenvolvido um mini projeto com as seguintes funcionalidades:
 
-> Um jogo simples onde o usuário tenta adivinhar um número aleatório gerado pelo sistema. Inclui contagem de tentativas e dicas (maior ou menor).
+- Exibição de mensagens dinâmicas via `alert`
+- Coleta de informações via `prompt`
+- Verificação de condições e tentativas com `while`
+- Geração de números aleatórios com `Math.random`
+- Uso de `console.log` para testes e debug
 
-## 📁 Estrutura do Projeto
+---
+
+## 🧪 Estrutura do Repositório
 
 ```
 
-📦logica-programacao-javascript
-┣ 📁 img
-┣ 📜 app.js
-┣ 📜 index.html
-┣ 📜 README.md
-┗ 📜 style.css
+logica-js-mergulhando/
+├── index.html
+├── style.css
+├── script.js
+├── desafios/
+│   ├── desafio-numero-secreto.js
+│   ├── desafio-detran.js
+│   └── ...
+└── README.md
 
 ```
 
----
-
-## 💻 Tecnologias Utilizadas
-
-- HTML5 (estrutura das páginas)
-- JavaScript puro (sem bibliotecas externas)
-- Navegador (execução e depuração no console)
+> Os arquivos estão organizados por aulas e desafios, respeitando a sequência do curso.
 
 ---
 
-## 📑 Certificado
+## 🏆 Habilidades Desenvolvidas
 
-📄 Assim que o curso for concluído, o certificado será disponibilizado aqui:  
-**🔗 [Clique aqui para visualizar o certificado](https://github.com/lobaosilvaaa/logica-js-projeto_inicial/blob/main/Curso%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o_%20mergulhe%20em%20programa%C3%A7%C3%A3o%20com%20JavaScript%20-%20Alura.pdf)**  
+- Compreensão de variáveis, operadores e controle de fluxo
+- Capacidade de leitura e interpretação de algoritmos simples
+- Aplicação de lógica para resolver pequenos desafios
+- Criação de scripts JS funcionais no navegador
 
 ---
 
-## 👨‍🎓 Autor
+## 📜 Certificado
+
+📎 Em breve: [Adicionar link do certificado da Alura aqui]
+
+---
+
+## 👨‍💻 Autor
 
 **Evandeilson Silva (Lobão)**  
-Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandeilson-silva-64b20028a/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lobaosilva)
+Estudante de Análise e Desenvolvimento de Sistemas  
+[GitHub](https://github.com/lobaosilvaaa) • [LinkedIn](https://www.linkedin.com/in/evandeilson-silva-64b20028a/)
 
 ---
 
-## 📜 Licença
-
-Este projeto é de uso educacional.  
-Conteúdo desenvolvido com base no curso da Alura — todos os direitos pertencem à plataforma.
+> _"A base da lógica é o primeiro passo para grandes códigos."_ 🚀
